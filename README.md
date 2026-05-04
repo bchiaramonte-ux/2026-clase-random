@@ -1,2 +1,2 @@
-# 2026-clase-rando
+# 2026-clase-prueba
 estoy en el repositorio de la web
